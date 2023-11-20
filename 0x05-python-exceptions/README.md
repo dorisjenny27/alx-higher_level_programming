@@ -3,7 +3,7 @@
 **What i learnt:**
 
 - The difference between errors and exceptions in python
-- WHat exceptions are and how to use them
+- What exceptions are and how to use them
 - The need to use exceptions
 - How to correctly handle an exception
 - The purpose of catching exceptions
