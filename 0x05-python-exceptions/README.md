@@ -1,6 +1,6 @@
 ## This project is on Python - Exceptions
 
-** What i learnt: **
+**What i learnt:**
 
 - The difference between errors and exceptions in python
 - WHat exceptions are and how to use them
