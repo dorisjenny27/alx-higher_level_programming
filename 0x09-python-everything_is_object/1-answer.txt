@@ -1,1 +1,1 @@
-variable_address = id(variable)
+import ctypes; id = lambda x: ctypes.cast(id, ctypes.py_object).value
